@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf5a88a2-6a0c-44b8-b3c0-4dd82f15bad0" name="Changes" comment="initSettings, init Game, initInput, initPhysics en EntityTypes class toegevoegd" />
+    <list default="true" id="cf5a88a2-6a0c-44b8-b3c0-4dd82f15bad0" name="Changes" comment="initSettings, init Game, initInput, initPhysics en EntityTypes class toegevoegd">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/hsleiden/groep30/joshua_bloch_ipose/8bit.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hsleiden/groep30/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hsleiden/groep30/Game.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,11 +43,15 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/samvd/IdeaProjects/JOSHUA_BLOCH_IPOSE/src/main/resources/com/hsleiden/groep30/joshua_bloch_ipose",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "settings.editor.selected.configurable": "shared-indexes"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\samvd\IdeaProjects\JOSHUA_BLOCH_IPOSE\src\main\resources\com\hsleiden\groep30\joshua_bloch_ipose" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\samvd\IdeaProjects\JOSHUA_BLOCH_IPOSE\src\main\resources\assets\textures" />
     </key>
@@ -73,7 +81,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680593197943</updated>
-      <workItem from="1680593199097" duration="5282000" />
+      <workItem from="1680593199097" duration="6553000" />
     </task>
     <task id="LOCAL-00001" summary="Opzet project">
       <created>1680593306856</created>
@@ -96,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680598410093</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="initSettings, init Game, initInput, initPhysics en EntityTypes class toegevoegd">
+      <created>1680598501616</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680598501616</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,5 +132,9 @@
     <MESSAGE value="Opzet project" />
     <MESSAGE value="initSettings, init Game, initInput, initPhysics en EntityTypes class toegevoegd" />
     <option name="LAST_COMMIT_MESSAGE" value="initSettings, init Game, initInput, initPhysics en EntityTypes class toegevoegd" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
