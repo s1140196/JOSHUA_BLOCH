@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf5a88a2-6a0c-44b8-b3c0-4dd82f15bad0" name="Changes" comment="Opzet project">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hsleiden/groep30/EntityTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hsleiden/groep30/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/textures/8bit.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hsleiden/groep30/joshua_bloch_ipose/HelloApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hsleiden/groep30/joshua_bloch_ipose/HelloController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" />
-    </list>
+    <list default="true" id="cf5a88a2-6a0c-44b8-b3c0-4dd82f15bad0" name="Changes" comment="initSettings, init Game, initInput, initPhysics en EntityTypes class toegevoegd" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680593197943</updated>
-      <workItem from="1680593199097" duration="4656000" />
+      <workItem from="1680593199097" duration="4981000" />
     </task>
     <task id="LOCAL-00001" summary="Opzet project">
       <created>1680593306856</created>
@@ -91,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680593306856</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initSettings, init Game, initInput, initPhysics en EntityTypes class toegevoegd">
+      <created>1680598026758</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680598026758</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +108,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Opzet project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Opzet project" />
+    <MESSAGE value="initSettings, init Game, initInput, initPhysics en EntityTypes class toegevoegd" />
+    <option name="LAST_COMMIT_MESSAGE" value="initSettings, init Game, initInput, initPhysics en EntityTypes class toegevoegd" />
   </component>
 </project>
